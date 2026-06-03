@@ -1,0 +1,9 @@
+psxdata
+yfinance
+pandas
+numpy
+requests
+beautifulsoup4
+feedparser
+textblob
+python-telegram-bot
