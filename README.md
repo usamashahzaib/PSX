@@ -2,6 +2,8 @@
 
 Paper-only Pakistan Stock Exchange bot. No real trading path exists.
 
+Python `3.12` recommended. `psxdata` requires Python `>=3.11`.
+
 ## Features
 
 - Tracks PSX symbols in PKR.
