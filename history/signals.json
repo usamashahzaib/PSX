@@ -1533,5 +1533,980 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 348.73,
+    "rsi": 66.56,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "MACD bullish crossover; Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 144.38,
+    "rsi": 62.24,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 163.14,
+    "rsi": 68.94,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 621.96,
+    "rsi": 53.87,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 116.86,
+    "rsi": 47.44,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 380.89,
+    "rsi": 60.71,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 215.56,
+    "rsi": 50.27,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 168.13,
+    "rsi": 44.56,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 176.7,
+    "rsi": 36.89,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 58.75,
+    "rsi": 66.28,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 67.61,
+    "rsi": 75.34,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 78.0,
+    "rsi": 82.71,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 96.92,
+    "rsi": 36.38,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 116.44,
+    "rsi": 48.01,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 263.55,
+    "rsi": 43.15,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 22.05,
+    "rsi": 71.19,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 117.99,
+    "rsi": 64.83,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 197.3,
+    "rsi": 57.92,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 117.37,
+    "rsi": 70.3,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 63.34,
+    "rsi": 48.91,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 349.73,
+    "rsi": 56.69,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 15.51,
+    "rsi": 67.12,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 37.13,
+    "rsi": 67.07,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 28.74,
+    "rsi": 72.2,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-08T19:35:52.731207+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.682,
+      "headlines": [
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "Pakistan\u2019s Ramzan Relief offers a human answer to economic pressure - Al Arabiya English",
+        "New Pakistan-Iran Road Routes and Central Asian Trade - Caspian Post",
+        "Pakistan Budget Deadlock: Key Economic Council Meet Postponed For Third Time | Exclusive - News18",
+        "Pakistan in a changing world - Meer | English edition",
+        "Pakistan at the crossroads of a new mineral war - The Express Tribune",
+        "Agriculture: Livestock potential for economic growth - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
