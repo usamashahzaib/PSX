@@ -2508,5 +2508,930 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 347.62,
+    "rsi": 59.7,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 144.77,
+    "rsi": 57.35,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 164.22,
+    "rsi": 64.21,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 619.6,
+    "rsi": 44.51,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 116.68,
+    "rsi": 43.81,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 381.14,
+    "rsi": 55.84,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "MACD bullish crossover; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 216.11,
+    "rsi": 47.28,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 168.1,
+    "rsi": 41.88,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 176.12,
+    "rsi": 34.39,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 58.45,
+    "rsi": 60.81,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 67.65,
+    "rsi": 67.35,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 76.91,
+    "rsi": 66.2,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 96.71,
+    "rsi": 29.66,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 115.62,
+    "rsi": 40.64,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 270.21,
+    "rsi": 41.84,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 22.47,
+    "rsi": 71.49,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 116.46,
+    "rsi": 57.21,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 196.53,
+    "rsi": 50.94,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 116.28,
+    "rsi": 64.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 62.46,
+    "rsi": 40.66,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 353.03,
+    "rsi": 53.2,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 15.37,
+    "rsi": 56.6,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 36.66,
+    "rsi": 52.11,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 28.55,
+    "rsi": 59.29,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-09T18:25:01.262202+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.987,
+      "headlines": [
+        "Pakistan\u2019s Hybrid Regime and the Cost of Militarized Governance - Fair Observer",
+        "CPEC 2.0: China\u2019s grip tightening on Pakistan\u2019s digital future - Asia Times",
+        "Pakistan Economy - Monetary Policy Survey; Participants Divided Over Rate Change; We Expect Status Quo - Smartkarma",
+        "Pakistan\u2019s Economy Set to Expand with Fintech Adoption but Regularity Clarity Must Be Key Priority - Crowdfund Insider",
+        "Opinion | Why Trump's Attention Is Quickly Becoming Pak's Biggest Headache - NDTV",
+        "IMF, China and the Military: Pakistan\u2019s Hidden Power Struggle - Katoikos",
+        "India's Pakistan isolation strategy reaches its limits - T\u00fcrkiye Today",
+        "The China-Pakistan Economic Corridor and China\u2019s \u2018developmental peace\u2019 in Pakistan - Peace Research Institute Oslo (PRIO)"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
