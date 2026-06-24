@@ -12208,5 +12208,869 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 338.1700134277344,
+    "rsi": 67.85,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 244.32000732421875,
+    "rsi": 64.13,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 457.4700012207031,
+    "rsi": 64.74,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 231.80999755859375,
+    "rsi": 69.27,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 351.9200134277344,
+    "rsi": 53.92,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 398.8299865722656,
+    "rsi": 39.66,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Volume spike; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 429.30999755859375,
+    "rsi": 60.82,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 292.989990234375,
+    "rsi": 55.26,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 149.42999267578125,
+    "rsi": 53.85,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 199.3800048828125,
+    "rsi": 43.48,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 11.029999732971191,
+    "rsi": 27.44,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 189.85000610351562,
+    "rsi": 66.07,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 103.30000305175781,
+    "rsi": 79.14,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 323.5299987792969,
+    "rsi": 76.19,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 905.489990234375,
+    "rsi": 59.02,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 8.149999618530273,
+    "rsi": 44.2,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 555.6400146484375,
+    "rsi": 49.77,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 20.739999771118164,
+    "rsi": 29.3,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 154.3800048828125,
+    "rsi": 67.69,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 43.470001220703125,
+    "rsi": 68.6,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 689.719970703125,
+    "rsi": 68.72,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 65.3499984741211,
+    "rsi": 52.79,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 125.66000366210938,
+    "rsi": 85.95,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 32.939998626708984,
+    "rsi": 81.19,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-06-24T17:34:14.416039+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.16,
+      "headlines": [
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Can Pakistan Turn Its Iran Peace Role Into an Economic Dividend? - Modern Diplomacy",
+        "Pakistan\u2019s budget of managed expectations - Arab News PK",
+        "Pakistan Economic Survey Projects Real GDP Growth at 3.7% in FY26 - SME & Entrepreneurship Magazine",
+        "Pakistan unveils annual budget as economy reaches record $452B - Anadolu Ajans\u0131",
+        "Pakistan's Budget Fixes The Numbers, But Not The Economy - The Friday Times",
+        "Can Pakistan turn Iran diplomacy into economic gains? - AnewZ"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
