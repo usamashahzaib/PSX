@@ -13072,5 +13072,930 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 328.22,
+    "rsi": 44.47,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 133.38,
+    "rsi": 25.82,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 154.05,
+    "rsi": 31.24,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 611.26,
+    "rsi": 9.58,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 117.16,
+    "rsi": 18.88,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 369.63,
+    "rsi": 18.77,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 214.41,
+    "rsi": 36.08,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 167.09,
+    "rsi": 16.77,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 193.28,
+    "rsi": 22.28,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 57.12,
+    "rsi": 9.89,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 63.82,
+    "rsi": 20.96,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 70.1,
+    "rsi": 16.93,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 101.8,
+    "rsi": 20.12,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 117.96,
+    "rsi": 20.2,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 277.5,
+    "rsi": 27.71,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 19.98,
+    "rsi": 17.08,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 113.55,
+    "rsi": 39.62,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Volume spike; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 188.85,
+    "rsi": 27.76,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 105.09,
+    "rsi": 19.43,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 62.67,
+    "rsi": 20.07,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 340.95,
+    "rsi": 14.51,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 14.86,
+    "rsi": 27.85,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 34.42,
+    "rsi": 13.36,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 26.74,
+    "rsi": 22.19,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-06-25T17:38:21.500850+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.247,
+      "headlines": [
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "What does Pakistan stand to gain from helping broker the US-Iran deal? - Al Jazeera",
+        "Analysis-Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Al-Monitor",
+        "Pakistan eyes 400,000 jobs in Saudi Arabia ahead of FIFA World Cup 2034 - Muslim Network TV",
+        "The Strategic Promise Of CPEC Phase II \u2013 OpEd - Eurasia Review",
+        "Pakistan says eying economic power after Iran diplomacy cemented \u2018middle power\u2019 status - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
