@@ -14622,5 +14622,880 @@
         "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 333.35,
+    "rsi": 54.2,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 139.75,
+    "rsi": 51.67,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 156.98,
+    "rsi": 42.8,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 636.45,
+    "rsi": 16.46,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 119.87,
+    "rsi": 23.98,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 372.82,
+    "rsi": 17.05,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 220.66,
+    "rsi": 56.19,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 176.33,
+    "rsi": 24.93,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 196.33,
+    "rsi": 21.82,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 56.95,
+    "rsi": 18.01,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 64.77,
+    "rsi": 28.42,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 72.97,
+    "rsi": 22.68,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 105.82,
+    "rsi": 27.44,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 120.45,
+    "rsi": 23.59,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 280.8,
+    "rsi": 24.51,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 20.42,
+    "rsi": 25.29,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 114.09,
+    "rsi": 51.53,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 195.85,
+    "rsi": 27.63,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 107.24,
+    "rsi": 20.11,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 65.56,
+    "rsi": 23.03,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 348.98,
+    "rsi": 32.55,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 15.06,
+    "rsi": 25.34,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 36.29,
+    "rsi": 16.12,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 27.56,
+    "rsi": 26.95,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-06-29T19:34:23.693593+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.155,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Pakistan seeks urgent LNG cargo as Hormuz tensions disrupt supplies - Anadolu Ajans\u0131",
+        "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation - ASEAN Main Portal",
+        "Is it time to revive the Iran-Pakistan gas pipeline amid expectations of sanctions relief? - TRT World",
+        "Pakistan economic survey projects real GDP growth at 3.7% in FY26 - Reuters",
+        "Analysis-Can Pakistan\u2019s peacekeeping role in Iran war give it an economic dividend? - WTVB",
+        "Will Asim Munir\u2019s push for US-Iran peace pay off for Pakistan? - Financial Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
   }
 ]
