@@ -22547,5 +22547,905 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 339.24,
+    "rsi": 60.44,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 141.06,
+    "rsi": 63.59,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 160.76,
+    "rsi": 56.8,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 667.12,
+    "rsi": 12.17,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 123.45,
+    "rsi": 26.93,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 384.0,
+    "rsi": 24.08,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 221.87,
+    "rsi": 51.65,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 177.58,
+    "rsi": 28.69,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 198.33,
+    "rsi": 22.01,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 58.0,
+    "rsi": 19.6,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 65.58,
+    "rsi": 31.89,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 73.0,
+    "rsi": 18.18,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 106.95,
+    "rsi": 29.01,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 122.76,
+    "rsi": 20.65,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 298.53,
+    "rsi": 42.17,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 21.46,
+    "rsi": 40.77,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 116.93,
+    "rsi": 71.35,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 207.18,
+    "rsi": 30.48,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 110.82,
+    "rsi": 18.16,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 65.37,
+    "rsi": 17.36,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 356.1,
+    "rsi": 55.81,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 15.57,
+    "rsi": 26.92,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 39.85,
+    "rsi": 26.31,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 28.06,
+    "rsi": 29.31,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-10T17:41:09.653271+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.69,
+      "headlines": [
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Brokering Peace Won't Fix Pakistan's Economy - The Friday Times",
+        "ADB cuts growth forecast to 3.7% - The Express Tribune",
+        "Fintech Landscape of Pakistan in 2026 - The Fintech Times",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute",
+        "World Bank approves $375.9 million in financing for Pakistan\u2019s Grid Stability Enhancement Project - Gulf Today"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
