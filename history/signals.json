@@ -25297,5 +25297,880 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 339.11,
+    "rsi": 67.18,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 145.52,
+    "rsi": 84.27,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 169.27,
+    "rsi": 81.79,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 688.31,
+    "rsi": 46.91,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 129.03,
+    "rsi": 55.26,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 396.91,
+    "rsi": 38.08,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 225.19,
+    "rsi": 56.14,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 180.74,
+    "rsi": 26.18,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 212.18,
+    "rsi": 44.71,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 59.48,
+    "rsi": 39.78,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 66.66,
+    "rsi": 43.72,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 80.18,
+    "rsi": 22.47,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 111.86,
+    "rsi": 63.29,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 129.16,
+    "rsi": 50.8,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 300.42,
+    "rsi": 41.58,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 21.18,
+    "rsi": 39.33,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 116.96,
+    "rsi": 82.72,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 233.55,
+    "rsi": 53.4,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 116.95,
+    "rsi": 33.89,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; MACD bullish crossover; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 67.45,
+    "rsi": 27.45,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 378.98,
+    "rsi": 65.91,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 16.06,
+    "rsi": 36.0,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 40.8,
+    "rsi": 25.49,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 27.53,
+    "rsi": 28.98,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-15T17:01:29.919740+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.364,
+      "headlines": [
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "The New Phase Of Pakistan\u2019s Instability And Its Strategic Implications \u2013 Analysis - Eurasia Review",
+        "Egypt and Pakistan to establish joint development planning platform following New York talks - Dailynewsegypt",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "Pakistan envoy gifts FIFA World Cup football 'Trionda' to US IDFC chief - The Express Tribune",
+        "Pakistan\u2019s Foreign Minister Ishaq Dar and Shanghai Cooperation Organisation (SCO) Secretary-General Nurlan Yermekbayev held talks on regional developments. Pakistan\u2019s Ministry of Foreign Affairs said in a statement posted on its X account on Wednesda - facebook.com"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
   }
 ]
