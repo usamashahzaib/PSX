@@ -26172,5 +26172,905 @@
         "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 337.48,
+    "rsi": 65.07,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 144.96,
+    "rsi": 80.71,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 169.33,
+    "rsi": 78.58,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 690.31,
+    "rsi": 50.95,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 131.67,
+    "rsi": 60.15,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 396.04,
+    "rsi": 37.48,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 225.0,
+    "rsi": 58.16,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 179.26,
+    "rsi": 18.1,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 211.74,
+    "rsi": 43.57,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 60.06,
+    "rsi": 39.46,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 66.38,
+    "rsi": 41.29,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 82.17,
+    "rsi": 22.01,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 114.31,
+    "rsi": 75.55,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 130.41,
+    "rsi": 58.99,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "MACD bullish crossover; Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 305.36,
+    "rsi": 53.05,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 21.32,
+    "rsi": 38.62,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 116.74,
+    "rsi": 82.54,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 234.58,
+    "rsi": 55.44,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 115.99,
+    "rsi": 25.33,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 66.98,
+    "rsi": 23.74,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 382.14,
+    "rsi": 68.22,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 16.09,
+    "rsi": 41.14,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 42.71,
+    "rsi": 35.72,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 28.9,
+    "rsi": 36.51,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-07-16T17:02:23.825384+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.452,
+      "headlines": [
+        "Women\u2019s OIC Conference in Pakistan Sees Syrian Delegation After 14 Years - The Media Line",
+        "Pakistan targets fully digital remittances to accelerate cashless economy - IntelliNews",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum",
+        "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker - CNBC",
+        "How Pakistan Mediated an End to the US-Iran War - Fair Observer",
+        "Pakistan aims to sign five-year economic plan with Uzbekistan to boost trade, connectivity - Arab News PK",
+        "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
