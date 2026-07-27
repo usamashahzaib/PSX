@@ -32297,5 +32297,905 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 332.89,
+    "rsi": 48.21,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 139.69,
+    "rsi": 42.86,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "MACD bullish crossover; Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 161.48,
+    "rsi": 39.12,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 718.9,
+    "rsi": 55.75,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 131.31,
+    "rsi": 72.19,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 420.76,
+    "rsi": 63.35,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 218.27,
+    "rsi": 59.95,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 186.65,
+    "rsi": 11.66,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 217.97,
+    "rsi": 47.13,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Volume spike; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 62.5,
+    "rsi": 30.88,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 68.74,
+    "rsi": 42.83,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 82.55,
+    "rsi": 32.11,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 113.63,
+    "rsi": 71.71,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 129.0,
+    "rsi": 54.42,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 311.52,
+    "rsi": 51.08,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 22.56,
+    "rsi": 50.94,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Volume spike; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 114.38,
+    "rsi": 71.53,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 232.54,
+    "rsi": 60.04,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 115.83,
+    "rsi": 24.64,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 71.1,
+    "rsi": 34.47,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 369.31,
+    "rsi": 39.03,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 16.12,
+    "rsi": 69.55,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 42.71,
+    "rsi": 40.34,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 31.23,
+    "rsi": 39.06,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Volume spike; KSE trend not bearish",
+    "time": "2026-07-27T18:25:38.897983+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.286,
+      "headlines": [
+        "Iran, Pakistan Eye Trade Boost as Private Sector Pushes for Border Reforms - Financial Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Pakistan\u2019s only choice is active neutrality in US-Iran war - Asia Times",
+        "Pakistan: Geopolitical obstacles hinder economic recovery - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+        "Pakistan seeks $10bn US support fund after mediating Iran talks - Capitalfm.co.ke",
+        "Rebounding inflation, fiscal pressures threaten recovery - Dawn",
+        "The Population Paradox: Pakistan's Unsung Economic Anchor - The Friday Times"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
