@@ -33197,5 +33197,630 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.609 / macro veto",
+    "time": "2026-07-28T17:21:53.405212+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.609,
+      "headlines": [
+        "Pakistan Holds Key Rate at 11.5% Amid Energy Price Risk - Briefs Finance",
+        "Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation - The Diplomat \u2013 Asia-Pacific",
+        "Dar confident Pakistan-US trade can grow to $20b in five years - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan seeks $10 billion U.S. economic support facility - The Hindu",
+        "Dar says he believes Pakistan can double bilateral trade with US to $20bn in next 5 years - Dawn",
+        "Pakistan Economy - SBP Kept Policy Rate Unchanged at 11.5%; External Debt Servicing Requirement to Fall in FY27 - Smartkarma",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
   }
 ]
