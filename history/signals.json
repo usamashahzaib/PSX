@@ -36547,5 +36547,930 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 330.89,
+    "rsi": 81.89,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 134.25,
+    "rsi": 26.86,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 154.18,
+    "rsi": 17.92,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 705.45,
+    "rsi": 56.44,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 128.27,
+    "rsi": 70.01,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 413.24,
+    "rsi": 67.65,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 224.22,
+    "rsi": 69.33,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 188.99,
+    "rsi": 28.51,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 216.07,
+    "rsi": 45.16,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 61.96,
+    "rsi": 38.52,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 67.38,
+    "rsi": 47.84,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 88.37,
+    "rsi": 56.91,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 110.27,
+    "rsi": 65.91,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 132.67,
+    "rsi": 85.76,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 309.21,
+    "rsi": 39.19,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 22.74,
+    "rsi": 76.61,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 113.32,
+    "rsi": 60.14,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 232.01,
+    "rsi": 63.91,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 120.89,
+    "rsi": 30.93,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 73.09,
+    "rsi": 55.45,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 351.01,
+    "rsi": 11.56,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 16.68,
+    "rsi": 75.94,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 45.21,
+    "rsi": 73.56,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 31.15,
+    "rsi": 59.28,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-03T18:25:28.782534+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.001,
+      "headlines": [
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistani-Ruled Kashmir Is Facing a Brutal State Crackdown - Jacobin",
+        "Pakistan seeks increased trade with US, plans $20 billion over next five years - The Jerusalem Post",
+        "Who Can Pakistan Really Afford? - The Friday Times",
+        "The economy Pakistan forgot to measure - Dawn",
+        "Iran war creates an opening for Pakistan\u2019s maritime industry - East Asia Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
