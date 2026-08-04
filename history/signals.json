@@ -37472,5 +37472,930 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 330.18,
+    "rsi": 75.78,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 134.89,
+    "rsi": 24.87,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 155.58,
+    "rsi": 28.54,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 695.34,
+    "rsi": 51.56,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 127.93,
+    "rsi": 67.44,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 412.06,
+    "rsi": 65.09,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 222.9,
+    "rsi": 67.07,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 189.4,
+    "rsi": 32.05,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 214.81,
+    "rsi": 44.4,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 61.49,
+    "rsi": 38.77,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 67.66,
+    "rsi": 50.97,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 87.36,
+    "rsi": 43.41,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 108.24,
+    "rsi": 55.33,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 128.94,
+    "rsi": 81.94,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 305.73,
+    "rsi": 34.98,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 22.33,
+    "rsi": 72.38,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 113.21,
+    "rsi": 60.93,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 230.25,
+    "rsi": 61.02,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 120.59,
+    "rsi": 24.08,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 72.18,
+    "rsi": 46.29,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 358.51,
+    "rsi": 13.8,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 16.48,
+    "rsi": 73.58,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 46.01,
+    "rsi": 75.74,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 31.1,
+    "rsi": 60.32,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-04T17:26:27.272523+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.14,
+      "headlines": [
+        "Iran, Pakistan Target $10 Billion Trade as Joint Committee Meets in Islamabad - Financial Tribune",
+        "Pakistan, Iran Renew Push to Raise Bilateral Trade to $10bn - The Diplomatic Insight",
+        "10th Session of Iran-Pakistan Joint Economic Committee Inaugurated in Islamabad - iranpress.com",
+        "Iran, Pakistan forge path to $10b trade milestone as joint committee meets in Islamabad - Tehran Times",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "5.4-magnitude earthquake strikes Africa's second-largest economy after recent tremors in China, Japan, Pakistan and Italy - Business Insider Africa",
+        "Pakistan\u2019s March to Doom: Deadly Crackdown in PoJK Protests Exposes Economic Crisis and Political Unraveling - Open Magazine",
+        "Pakistan, Iran reaffirm resolve to expand bilateral trade to $10bn - Dawn"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
