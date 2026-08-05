@@ -38397,5 +38397,930 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 330.12,
+    "rsi": 73.87,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 135.44,
+    "rsi": 24.87,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 156.52,
+    "rsi": 30.44,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 688.05,
+    "rsi": 41.07,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 129.72,
+    "rsi": 76.95,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 411.8,
+    "rsi": 62.82,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 221.81,
+    "rsi": 63.51,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 190.82,
+    "rsi": 30.72,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 214.89,
+    "rsi": 40.82,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 62.15,
+    "rsi": 42.65,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 67.73,
+    "rsi": 47.4,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 89.62,
+    "rsi": 41.35,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 108.48,
+    "rsi": 48.09,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 128.0,
+    "rsi": 54.98,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 303.61,
+    "rsi": 34.98,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 22.57,
+    "rsi": 52.05,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "MACD bullish crossover; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 113.05,
+    "rsi": 51.4,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 229.31,
+    "rsi": 59.71,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 121.58,
+    "rsi": 18.93,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 72.31,
+    "rsi": 45.3,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 359.49,
+    "rsi": 14.39,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 16.37,
+    "rsi": 70.81,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 45.38,
+    "rsi": 48.56,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 30.88,
+    "rsi": 47.21,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-05T17:23:51.074635+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.36,
+      "headlines": [
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Why did Trump leave Pakistan off the list of US-Iran mediators? - Latest news from Azerbaijan",
+        "Iran, Pakistan emphasize strengthening trade, economic coop. - Mehr News Agency",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India",
+        "Pakistan, Iran reaffirm commitment to achieving $10B bilateral trade target - Anadolu Ajans\u0131",
+        "Iran Eyes Expanded Economic Ties with Pakistan through PTA - \u062a\u0633\u0646\u06cc\u0645",
+        "How Iran and China Tried\u2014and Failed\u2014to Avoid a Naval Blockade | Proceedings - July 2026 Vol. 152/7/1,481 - U.S. Naval Institute",
+        "Pakistan rebuts backdoor diplomacy with India - Yeni Safak English"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
