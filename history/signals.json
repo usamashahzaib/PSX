@@ -39322,5 +39322,955 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 333.73,
+    "rsi": 81.78,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 136.65,
+    "rsi": 28.35,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 155.84,
+    "rsi": 26.14,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 689.6,
+    "rsi": 38.09,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 129.02,
+    "rsi": 58.81,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 411.07,
+    "rsi": 67.39,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 216.03,
+    "rsi": 55.2,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 197.72,
+    "rsi": 38.58,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 217.22,
+    "rsi": 45.5,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 63.73,
+    "rsi": 37.7,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 67.52,
+    "rsi": 49.89,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 90.2,
+    "rsi": 42.34,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 108.27,
+    "rsi": 45.63,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 127.73,
+    "rsi": 53.49,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 302.42,
+    "rsi": 27.53,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 22.32,
+    "rsi": 33.51,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 113.27,
+    "rsi": 56.68,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 229.39,
+    "rsi": 65.25,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 121.43,
+    "rsi": 22.19,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 73.58,
+    "rsi": 53.58,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 364.76,
+    "rsi": 22.23,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 16.31,
+    "rsi": 55.31,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 45.08,
+    "rsi": 33.92,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 30.63,
+    "rsi": 40.19,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-06T17:26:29.713574+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.461,
+      "headlines": [
+        "Pakistan\u2019s Red Sea calculus and the end of strategic ambiguity - Al Majalla",
+        "Iran eyes Pakistani ports as route around US blockade - Iran International",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Iran, Pakistan Move to Eliminate Trade Barriers - \u062a\u0633\u0646\u06cc\u0645",
+        "Pakistani premier to visit Saudi Arabia for talks on regional security, economy - Anadolu Ajans\u0131",
+        "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan - Balochistan Pulse",
+        "US ready to back mining projects - The Express Tribune",
+        "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
