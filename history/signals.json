@@ -46861,5 +46861,917 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 321.29998779296875,
+    "rsi": 47.12,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 239.0399932861328,
+    "rsi": 66.43,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 443.3699951171875,
+    "rsi": 40.45,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 211.85000610351562,
+    "rsi": 32.61,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 382.0199890136719,
+    "rsi": 73.76,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 422.45001220703125,
+    "rsi": 75.84,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 468.6400146484375,
+    "rsi": 48.69,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 327.42999267578125,
+    "rsi": 71.18,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 130.27999877929688,
+    "rsi": 35.99,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 186.07000732421875,
+    "rsi": 43.22,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 11.449999809265137,
+    "rsi": 66.58,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 189.8699951171875,
+    "rsi": 41.18,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 101.87000274658203,
+    "rsi": 63.65,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 327.010009765625,
+    "rsi": 54.32,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 1125.989990234375,
+    "rsi": 82.12,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 15.010000228881836,
+    "rsi": 87.35,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 552.9600219726562,
+    "rsi": 64.84,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 21.559999465942383,
+    "rsi": 69.18,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 150.08999633789062,
+    "rsi": 55.86,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 42.81999969482422,
+    "rsi": 45.64,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 721.7000122070312,
+    "rsi": 81.53,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 72.11000061035156,
+    "rsi": 55.44,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 105.70999908447266,
+    "rsi": 52.32,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 28.5,
+    "rsi": 71.33,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-19T15:55:37.800679+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.584,
+      "headlines": [
+        "Why renewed US-Pakistan engagement is making Chinese analysts uneasy - ThePrint",
+        "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens - South China Morning Post",
+        "Pakistan marks 79th Independence Day in Korea - The Korea News Plus",
+        "Ex top Pakistan official blames economic woes on China: Here's how CPEC became a failure - WION",
+        "Explained: Google\u2019s Pakistan office opens, with 960,000 jobs supported - Gulf News",
+        "Pakistan\u2019s problematic food economy - asianews.network",
+        "Google opens doors to Pakistan's digital future - tribune.com.pk",
+        "Pakistan keeps converting relevance into rent - Arab News PK"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
