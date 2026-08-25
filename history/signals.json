@@ -50573,5 +50573,905 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 309.98,
+    "rsi": 61.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 142.37,
+    "rsi": 62.27,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 163.65,
+    "rsi": 60.97,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 700.67,
+    "rsi": 68.87,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 123.99,
+    "rsi": 63.15,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 405.91,
+    "rsi": 46.2,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 214.35,
+    "rsi": 52.86,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 202.04,
+    "rsi": 51.5,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 220.81,
+    "rsi": 47.14,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 63.56,
+    "rsi": 15.01,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 67.96,
+    "rsi": 82.83,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 92.42,
+    "rsi": 18.66,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 109.01,
+    "rsi": 76.8,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 126.55,
+    "rsi": 42.36,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 323.02,
+    "rsi": 31.17,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 22.45,
+    "rsi": 26.02,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 112.86,
+    "rsi": 71.39,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 226.24,
+    "rsi": 55.68,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 126.93,
+    "rsi": 39.51,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 73.23,
+    "rsi": 48.41,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 394.49,
+    "rsi": 39.77,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 15.6,
+    "rsi": 19.44,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 45.57,
+    "rsi": 22.37,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 31.3,
+    "rsi": 10.59,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-25T16:00:10.796557+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.626,
+      "headlines": [
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Here\u2019s how Afghanistan\u2019s new trade routes have left Pakistan\u2019s border economy reeling - The Statesman",
+        "US unveils 'economic D-Day' of sanctions to isolate Iran - The Detroit News",
+        "'Operation Economic Outcast': How India, China, Pakistan could be hit by US 'Economic D Day' moves against Iran - WION",
+        "Trump\u2019s Iran Trap: Operation Economic Outcast, Escalating Sanctions and the Looming Threat of Military Strikes - Open Magazine",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - Arab News",
+        "High-wire act: Asim Munir mediates between Trump and Tehran as tensions build in Pakistan - Telegraph India"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
