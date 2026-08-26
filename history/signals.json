@@ -51473,5 +51473,905 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 307.87,
+    "rsi": 43.09,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 142.18,
+    "rsi": 62.03,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 164.73,
+    "rsi": 67.54,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 707.75,
+    "rsi": 74.05,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 126.78,
+    "rsi": 75.49,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 401.96,
+    "rsi": 40.36,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 213.69,
+    "rsi": 57.21,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 203.01,
+    "rsi": 55.66,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 219.99,
+    "rsi": 46.65,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 66.4,
+    "rsi": 17.09,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 67.53,
+    "rsi": 82.64,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 92.62,
+    "rsi": 29.44,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 109.51,
+    "rsi": 78.94,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 126.72,
+    "rsi": 46.65,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 337.38,
+    "rsi": 50.28,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 23.57,
+    "rsi": 33.37,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 112.32,
+    "rsi": 71.56,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 223.87,
+    "rsi": 56.2,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 126.42,
+    "rsi": 41.12,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 72.95,
+    "rsi": 48.55,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 391.04,
+    "rsi": 51.08,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 16.07,
+    "rsi": 26.3,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 47.84,
+    "rsi": 38.71,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 32.24,
+    "rsi": 19.46,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-08-26T16:02:14.989870+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.711,
+      "headlines": [
+        "Pakistan works to broker U.S.-Iran peace as Washington\u2019s economic pressure campaign continues - Washington Times",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Pakistan, Oman mediation visits are White House deception operation \u2013 Kayhan - Iran International",
+        "Kashmir Crackdown Puts Pakistan\u2019s EU Market Access Under Pressure - The European Conservative",
+        "EA on Pakistan TV: Last Chance to \u201cBreak\u201d Iran? The Trump Camp\u2019s Economic Warfare - EA WorldView",
+        "US widens sanctions on Iran but withholds more punishing options - Reuters",
+        "Pakistan Has Outgrown Its Administrative Map \u2013 OpEd - Eurasia Review",
+        "Pakistan army chief arrives in Tehran to hold talks on US \u2018economic D-Day\u2019 - arabnews.jp"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
