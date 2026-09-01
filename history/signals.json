@@ -54248,5 +54248,905 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 306.16,
+    "rsi": 60.33,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 139.98,
+    "rsi": 51.59,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 163.18,
+    "rsi": 63.72,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 680.52,
+    "rsi": 47.5,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "MACD bullish crossover; Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 124.31,
+    "rsi": 62.09,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 399.9,
+    "rsi": 37.89,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 209.14,
+    "rsi": 45.53,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 200.72,
+    "rsi": 50.01,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 216.56,
+    "rsi": 46.21,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 65.15,
+    "rsi": 29.59,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 67.88,
+    "rsi": 80.03,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 91.37,
+    "rsi": 33.56,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 107.21,
+    "rsi": 69.72,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 122.93,
+    "rsi": 36.05,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 332.67,
+    "rsi": 52.38,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 26.05,
+    "rsi": 60.51,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 110.54,
+    "rsi": 68.84,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 223.65,
+    "rsi": 47.65,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 123.54,
+    "rsi": 30.54,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 72.0,
+    "rsi": 51.5,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 390.17,
+    "rsi": 53.59,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 16.19,
+    "rsi": 21.98,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 48.11,
+    "rsi": 44.33,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 32.7,
+    "rsi": 30.32,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-01T20:06:02.715388+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.617,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - thediplomat.com",
+        "Pakistan says $30 billion goods export base not enough to sustain growth - Arab News PK",
+        "Lukashenka Notes Slump in Trade With Pakistan - REFORM.news",
+        "Rs1.2 Trillion Repaid Early: Is Pakistan Finally Learning To Manage Its Debt? - The Friday Times",
+        "Uzbekistan, Pakistan agree on roadmap to accelerate economic projects - trend.az",
+        "Pakistan economy set to sustain recovery momentum in FY27 - Mettis Global",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Platform for practical actions - China Daily Global Edition"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
