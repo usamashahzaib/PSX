@@ -55148,5 +55148,930 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 305.52,
+    "rsi": 61.62,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "MACD bullish crossover; Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 137.49,
+    "rsi": 43.38,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 162.05,
+    "rsi": 57.95,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 661.38,
+    "rsi": 38.34,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 123.66,
+    "rsi": 59.27,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 394.08,
+    "rsi": 26.75,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 209.57,
+    "rsi": 39.2,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 200.12,
+    "rsi": 49.08,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 215.93,
+    "rsi": 47.68,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 65.23,
+    "rsi": 32.58,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 67.37,
+    "rsi": 81.12,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 90.53,
+    "rsi": 34.68,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 101.85,
+    "rsi": 60.38,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 119.91,
+    "rsi": 24.9,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 335.42,
+    "rsi": 55.93,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 26.46,
+    "rsi": 65.22,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 110.51,
+    "rsi": 69.6,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 220.46,
+    "rsi": 43.19,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 122.27,
+    "rsi": 26.87,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 70.98,
+    "rsi": 48.59,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 381.99,
+    "rsi": 49.05,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 16.15,
+    "rsi": 24.18,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 48.4,
+    "rsi": 43.71,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 32.53,
+    "rsi": 29.02,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-02T19:38:11.168951+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.87,
+      "headlines": [
+        "Kyrgyzstan to Reach Global Markets Through Pakistani Ports - Caspian Post",
+        "Kyrgyzstan and Pakistan aim to boost bilateral trade to $200M - TRT World",
+        "Partition, Prosperity And Power: The Making Of Pakistan\u2019s Industrial Economy - The Friday Times",
+        "Pakistan inflation pops back to 11.15% in August, topping forecasts - Briefs Finance",
+        "Lahore named SCO tourism capital: Can Pakistan\u2019s economy afford the spotlight? - Moneycontrol.com",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis - Dawn",
+        "China, with its economic and financial heft, can play a major role in making the SCO a vibrant regional organization: former Pakistani diplomat - Global Times"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
