@@ -56073,5 +56073,880 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 300.42,
+    "rsi": 58.55,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 139.79,
+    "rsi": 54.19,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 163.0,
+    "rsi": 66.19,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "MACD bullish crossover; Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 644.73,
+    "rsi": 23.33,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 121.77,
+    "rsi": 55.58,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 395.38,
+    "rsi": 28.81,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 210.21,
+    "rsi": 43.22,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 200.1,
+    "rsi": 47.24,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 217.84,
+    "rsi": 49.99,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 64.34,
+    "rsi": 35.59,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 66.8,
+    "rsi": 80.39,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 88.97,
+    "rsi": 40.12,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 97.23,
+    "rsi": 45.38,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 118.31,
+    "rsi": 18.06,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 332.23,
+    "rsi": 54.47,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 25.75,
+    "rsi": 62.59,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 110.07,
+    "rsi": 63.65,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 219.28,
+    "rsi": 48.73,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 122.5,
+    "rsi": 26.02,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 70.99,
+    "rsi": 44.89,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 393.75,
+    "rsi": 59.05,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 16.05,
+    "rsi": 26.76,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 47.13,
+    "rsi": 41.89,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 32.02,
+    "rsi": 25.59,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-03T19:41:25.963437+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.582,
+      "headlines": [
+        "IMF mission expected in Pakistan in September for loan program reviews - Arab News PK",
+        "Pakistan: Peasant Women Organize Against IMF-driven Agrarian Policies - La Via Campesina",
+        "IMF wraps up talks with Pakistan authorities on reforms, budget - Reuters",
+        "IMF Mission to Visit Pakistan in September for Fourth EFF Review - The Diplomatic Insight",
+        "Govt told to renegotiate IMF terms - dawn.com",
+        "IMF board clears $1.32 billion disbursements for Pakistan - Arab News",
+        "Pakistan's economy: An optimistic outlook - Business Recorder",
+        "IMF board clears Pakistan to access $1.32 billion - The New Arab"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
   }
 ]
