@@ -59698,5 +59698,930 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 303.75,
+    "rsi": 55.72,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 143.37,
+    "rsi": 55.47,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 159.69,
+    "rsi": 34.11,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 656.61,
+    "rsi": 21.01,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 122.58,
+    "rsi": 70.64,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 399.45,
+    "rsi": 22.57,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 214.56,
+    "rsi": 29.63,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 209.19,
+    "rsi": 53.56,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 228.7,
+    "rsi": 59.28,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 65.09,
+    "rsi": 30.55,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 66.0,
+    "rsi": 72.56,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 99.46,
+    "rsi": 57.34,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 99.83,
+    "rsi": 52.39,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 128.86,
+    "rsi": 32.25,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 339.27,
+    "rsi": 57.34,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 25.4,
+    "rsi": 59.48,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 112.16,
+    "rsi": 75.03,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 225.06,
+    "rsi": 50.5,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 132.36,
+    "rsi": 35.75,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 71.57,
+    "rsi": 46.7,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 405.61,
+    "rsi": 48.68,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 17.12,
+    "rsi": 30.88,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 49.55,
+    "rsi": 45.31,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 36.1,
+    "rsi": 31.23,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-09T19:45:08.273765+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.846,
+      "headlines": [
+        "Militant Buildup in Areas Critical to China\u2019s Economic Interests in Pakistan - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan seeks US funding in shift from reliance on China - Financial Times",
+        "The solarisation of Pakistan\u2019s energy economy - ember-energy.org",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "CPEC\u2019s Road To Eurasia \u2013 OpEd - Eurasia Review",
+        "Pakistan\u2019s Faltering Economy and its Impact on the Indian Textile Industry - Fibre2Fashion",
+        "Asim Munir Tightens Military Grip On Pakistan - IndiaWest",
+        "The Persistent Challenges to Development in Pakistan - Hudson Institute"
+      ],
+      "reasons": [
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
