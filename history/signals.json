@@ -63398,5 +63398,893 @@
         "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
       ]
     }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 314.8699951171875,
+    "rsi": 35.68,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 219.89999389648438,
+    "rsi": 21.05,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 413.8699951171875,
+    "rsi": 30.5,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 202.7100067138672,
+    "rsi": 37.2,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 340.510009765625,
+    "rsi": 19.93,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 390.6499938964844,
+    "rsi": 37.72,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 418.9599914550781,
+    "rsi": 20.97,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 298.7900085449219,
+    "rsi": 23.29,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 123.01000213623047,
+    "rsi": 46.68,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 189.10000610351562,
+    "rsi": 61.12,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 8.119999885559082,
+    "rsi": 15.49,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 165.57000732421875,
+    "rsi": 28.42,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 93.30000305175781,
+    "rsi": 28.99,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 272.42999267578125,
+    "rsi": 22.43,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 1115.68994140625,
+    "rsi": 53.47,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 12.8100004196167,
+    "rsi": 36.53,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 540.4099731445312,
+    "rsi": 42.02,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 19.139999389648438,
+    "rsi": 34.0,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 128.77000427246094,
+    "rsi": 14.44,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 35.33000183105469,
+    "rsi": 20.38,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 736.8900146484375,
+    "rsi": 58.09,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 64.25,
+    "rsi": 20.22,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 89.98999786376953,
+    "rsi": 19.27,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 23.56999969482422,
+    "rsi": 16.74,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-16T20:07:37.170433+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.337,
+      "headlines": [
+        "China, Pakistan, and the Rise of the \u201cElectrostate\u201d - Modern Diplomacy",
+        "From Borders To Bridges: Why Economic Diplomacy Will Define The Future Of Global Cooperation - OpEd - Eurasia Review",
+        "Pakistan-Oman Maritime Deal Signals Gwadar\u2019s Expanding Regional Relevance - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan, Uzbekistan Discuss Trade, Investment and Regional Connectivity - thekabultribune.com",
+        "China\u2019s Taste for Donkey Spurs an Unlikely Trade With Pakistan - Bloomberg.com",
+        "Consequences of Iran\u2019s Regional War on Pakistan\u2019s Economy - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+        "Ahsan Iqbal on Pakistan's Economy, AI Strategy, and Ties With U.S. & China | Asia Inside Out - Asia Society",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
