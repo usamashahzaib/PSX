@@ -68086,5 +68086,920 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "reason": "Insufficient data / data \u06a9\u0645 \u06c1\u06d2",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 319.5299987792969,
+    "rsi": 39.55,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 232.8300018310547,
+    "rsi": 59.25,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 424.3399963378906,
+    "rsi": 48.91,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 205.55999755859375,
+    "rsi": 46.08,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 352.5400085449219,
+    "rsi": 42.71,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 390.6000061035156,
+    "rsi": 42.77,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 432.67999267578125,
+    "rsi": 41.43,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 303.29998779296875,
+    "rsi": 32.33,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 121.69000244140625,
+    "rsi": 25.94,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 192.8699951171875,
+    "rsi": 52.97,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 8.210000038146973,
+    "rsi": 21.34,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 167.11000061035156,
+    "rsi": 29.83,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 96.06999969482422,
+    "rsi": 43.62,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 282.6499938964844,
+    "rsi": 39.46,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 1173.719970703125,
+    "rsi": 55.28,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 14.3100004196167,
+    "rsi": 48.47,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 544.1500244140625,
+    "rsi": 46.55,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "MACD bullish crossover; Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 19.8799991607666,
+    "rsi": 32.88,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 133.4600067138672,
+    "rsi": 36.48,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 37.029998779296875,
+    "rsi": 35.25,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 748.8400268554688,
+    "rsi": 64.29,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 62.880001068115234,
+    "rsi": 29.08,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 93.0,
+    "rsi": 36.8,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; MACD bullish crossover; Volume spike; KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 24.459999084472656,
+    "rsi": 32.84,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish",
+    "time": "2026-09-24T20:24:50.048361+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.203,
+      "headlines": [
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India",
+        "Lukashenko: Belarus, Pakistan need to boost economic ties - Belarus.by",
+        "'Junk Borrower' Pakistan Raises $3 Billion: Economic Comeback Or False Dawn? - NDTV",
+        "Pakistan-US ties: a new chapter for an old friendship - Asia News Network",
+        "Pakistan reforms restore confidence, market access: IMF - Gulf News",
+        "From 9/11 to the Iran War, Pakistan-US Ties Remain Transactional - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
