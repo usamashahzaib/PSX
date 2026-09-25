@@ -69001,5 +69001,920 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "reason": "Insufficient data / data \u06a9\u0645 \u06c1\u06d2",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 316.2300109863281,
+    "rsi": 33.17,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 231.4499969482422,
+    "rsi": 55.24,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 415.44000244140625,
+    "rsi": 42.76,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 202.58999633789062,
+    "rsi": 35.64,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 351.07000732421875,
+    "rsi": 40.26,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "MACD bullish crossover; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 387.989990234375,
+    "rsi": 39.29,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 426.260009765625,
+    "rsi": 38.88,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 304.1199951171875,
+    "rsi": 34.62,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 119.47000122070312,
+    "rsi": 21.44,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 194.11000061035156,
+    "rsi": 56.23,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 8.100000381469727,
+    "rsi": 22.88,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 159.35000610351562,
+    "rsi": 22.62,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 93.94000244140625,
+    "rsi": 33.78,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 279.2799987792969,
+    "rsi": 36.84,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 1131.02001953125,
+    "rsi": 54.6,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 13.470000267028809,
+    "rsi": 45.68,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 541.6199951171875,
+    "rsi": 45.2,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 19.559999465942383,
+    "rsi": 32.3,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 133.0399932861328,
+    "rsi": 36.6,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 36.209999084472656,
+    "rsi": 33.87,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 748.5800170898438,
+    "rsi": 65.49,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 62.380001068115234,
+    "rsi": 25.45,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 90.83000183105469,
+    "rsi": 28.19,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 23.899999618530273,
+    "rsi": 26.36,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-09-25T20:26:59.050392+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.22,
+      "headlines": [
+        "Pakistan's Prime Minister Shehbaz Sharif says economy has stabilized \u2014 Dawn - UA.NEWS",
+        "Pakistan\u2019s economy grows beyond targets - Arab News",
+        "Pakistan's economy stable, moving towards growth, PM Shehbaz tells business delegation - Dawn",
+        "The quiet desperation of Pakistan\u2019s middle class - asianews.network",
+        "PM Shehbaz highlights Pakistan investment opportunities for US businesses - The Express Tribune",
+        "PM Shehbaz Urges US Businesses to Invest in Pakistan\u2019s Agriculture, Mining, IT - The Diplomatic Insight",
+        "A Far Arc Made Nearer: Lukashenko\u2019s Multi-Vector Policy Meets Pakistan - News.by",
+        "Pakistan wants to be the Muslim world's security guard. Can its economy pay the bill? - The Times of India"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
