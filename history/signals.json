@@ -74316,5 +74316,680 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.312 / macro veto",
+    "time": "2026-10-06T21:53:40.813246+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.312,
+      "headlines": [
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "GDP growth at 2.7%: Pakistan's economy is losing momentum. What's going wrong - Business Today",
+        "From Atlanta churches to Pakistani villages, Ownership Economy Summit offers models for AI and the energy transition - ImpactAlpha",
+        "Pakistan\u2019s Blue Economy: Turning Maritime Potential Into Economic Power \u2013 OpEd - Eurasia Review",
+        "Pakistan plays Kashmir card again before UN chief as economy crumbles and anger explodes in PoK - Moneycontrol.com",
+        "Pakistan Recycles Kashmir Rhetoric Before UN Chief: Decoding Islamabad\u2019s Posturing Amid Economic Collapse, Local Tension | Exclusive - News18",
+        "Pakistan\u2019s Resilience Under Pressure: A Snapshot Of Socioeconomic Challenges - The Friday Times",
+        "Pakistan launches new project to undermine Afghanistan, regional security: Muttaqi - Pajhwok Afghan News"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
