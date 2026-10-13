@@ -78241,5 +78241,905 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 295.87,
+    "rsi": 57.6,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 142.88,
+    "rsi": 50.11,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 156.86,
+    "rsi": 54.45,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 700.61,
+    "rsi": 47.9,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 115.14,
+    "rsi": 60.18,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 417.55,
+    "rsi": 56.04,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 222.76,
+    "rsi": 53.7,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 202.96,
+    "rsi": 34.18,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 222.24,
+    "rsi": 27.06,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 77.14,
+    "rsi": 32.64,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 61.75,
+    "rsi": 34.62,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 93.75,
+    "rsi": 49.55,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 97.03,
+    "rsi": 49.81,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 143.99,
+    "rsi": 56.55,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 335.29,
+    "rsi": 36.3,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 23.96,
+    "rsi": 67.72,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 104.45,
+    "rsi": 45.71,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 248.64,
+    "rsi": 35.26,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 139.17,
+    "rsi": 31.42,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 70.92,
+    "rsi": 50.27,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 422.15,
+    "rsi": 61.15,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 17.95,
+    "rsi": 52.2,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 56.1,
+    "rsi": 24.39,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 38.93,
+    "rsi": 38.67,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-13T22:44:07.773326+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.219,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "IMF reaches tentative $1.21 billion bailout deal with Pakistan - DW.com",
+        "IMF raises Pakistan inflation forecast to 9.9% \u2014 The Express Tribune - UA.NEWS",
+        "Pakistan\u2019s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF - Dawn",
+        "How to boost youth employment in Pakistan for the age of AI - The World Economic Forum",
+        "IMF raises inflation forecast to 9.9% - The Express Tribune",
+        "Pakistan International Airlines to lease capacity from Norse Atlantic Airways - BoardingArea"
+      ],
+      "reasons": [
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
