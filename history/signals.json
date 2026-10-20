@@ -82816,5 +82816,955 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 293.61,
+    "rsi": 56.54,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 146.23,
+    "rsi": 74.37,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 162.05,
+    "rsi": 64.07,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 670.01,
+    "rsi": 38.5,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "MACD bullish crossover; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 113.01,
+    "rsi": 67.9,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 416.84,
+    "rsi": 66.8,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 222.4,
+    "rsi": 46.91,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 205.67,
+    "rsi": 38.86,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 224.27,
+    "rsi": 34.37,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 83.21,
+    "rsi": 50.3,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "MACD bullish crossover; Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 63.03,
+    "rsi": 43.95,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 93.33,
+    "rsi": 49.26,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 90.08,
+    "rsi": 16.82,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; MACD bullish crossover; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 133.97,
+    "rsi": 29.69,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; MACD bullish crossover; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 345.8,
+    "rsi": 33.16,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; MACD bullish crossover; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 22.87,
+    "rsi": 49.67,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 105.01,
+    "rsi": 45.02,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 255.34,
+    "rsi": 33.1,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 146.49,
+    "rsi": 51.12,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "MACD bullish crossover; Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 70.16,
+    "rsi": 51.53,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 432.04,
+    "rsi": 66.68,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 17.75,
+    "rsi": 46.81,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "MACD bullish crossover; Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 61.53,
+    "rsi": 32.97,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 39.8,
+    "rsi": 28.93,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-10-20T20:17:33.024990+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.422,
+      "headlines": [
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Pakistan\u2019s Growth Slows as Middle East Crisis Tests Recovery - Bloomberg.com",
+        "Pakistan\u2019s economy grew by 2% in April\u2013June \u2014 OilPrice - UA.NEWS",
+        "Pakistan's Growth Slows as Hormuz Crisis Hits Industry - Crude Oil Prices Today | OilPrice.com",
+        "Pakistan, The Houdini Nation: Through A Global Lens - StratNews Global",
+        "Breaking the Boom & Bust Cycle: Pakistan\u2019s Reform Agenda - United Nations Development Programme"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "IMF tranche approval bullish / IMF \u0642\u0633\u0637 \u0645\u0646\u0638\u0648\u0631\u06cc bullish",
+        "Fed cut supports EM flows / Fed cut EM flows \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
