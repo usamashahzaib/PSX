@@ -85391,5 +85391,655 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.301 / macro veto",
+    "time": "2026-10-23T20:22:51.613140+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.301,
+      "headlines": [
+        "Middle East, North Africa and Pakistan GDP to contract 1.3% in 2026, IMF says - Reuters",
+        "Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Economy Is Stabilizing, but Can It Grow Fast Enough to Triple Incomes by 2050? - Devdiscourse",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Iran\u2019s trade squeeze spreads from sea to land - Iran International",
+        "The Gulf\u2019s Next Economic Bet Could Be Pakistan - Atalayar",
+        "Pakistan ready to open economy to international markets, consult global experts: PM - The Nation (Pakistan )",
+        "Growth to remain moderate at 4.2% - The Express Tribune"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
