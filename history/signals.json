@@ -86841,5 +86841,630 @@
       ],
       "reasons": []
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "reason": "Macro veto -0.818 / macro veto",
+    "time": "2026-10-27T20:58:22.406171+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.818,
+      "headlines": [
+        "Pakistan - Agriculture, Manufacturing, Services - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "Pakistan\u2019s changing development assistance landscape: Manifestations, implications, and opportunities - Atlantic Council",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan's Mineral Wealth, Military Power And The New American Bargain - MEMRI | Middle East Media Research Institute",
+        "Pakistan Hikes Interest Rate to Curb Inflation Risks - Bloomberg.com",
+        "\u201cFrom a Joint Defense Agreement to Security Talks with Iran\u201d: Saudi Arabia, T\u00fcrkiye and Pakistan Strengthen Regional Security Cooperation Amid Iran War and Houthi Offensive - https://economy.ac/"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
   }
 ]
