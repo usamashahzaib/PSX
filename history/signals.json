@@ -89641,5 +89641,930 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "ENGRO",
+    "action": "HOLD",
+    "price": 289.07,
+    "rsi": 43.6,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 142.87,
+    "rsi": 40.83,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 154.08,
+    "rsi": 35.32,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 700.41,
+    "rsi": 39.29,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HUBC",
+    "action": "HOLD",
+    "price": 110.56,
+    "rsi": 58.5,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 408.94,
+    "rsi": 69.05,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 222.87,
+    "rsi": 37.47,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 217.28,
+    "rsi": 54.7,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 248.26,
+    "rsi": 72.85,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 83.57,
+    "rsi": 46.28,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 64.41,
+    "rsi": 64.81,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 179.74,
+    "rsi": 90.0,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 90.93,
+    "rsi": 14.03,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 95.44,
+    "rsi": 17.0,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 143.35,
+    "rsi": 19.9,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 361.31,
+    "rsi": 41.02,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 22.68,
+    "rsi": 37.65,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "MACD bullish crossover; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 105.53,
+    "rsi": 54.08,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 269.79,
+    "rsi": 5.88,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 147.47,
+    "rsi": 40.4,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 70.41,
+    "rsi": 40.53,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 401.26,
+    "rsi": 23.78,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 17.79,
+    "rsi": 45.65,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 66.99,
+    "rsi": 31.18,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "RSI oversold; KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 44.7,
+    "rsi": 38.98,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": true
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish; Macro acceptable",
+    "time": "2026-11-03T01:28:33.654552+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": 0.178,
+      "headlines": [
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "The Al Mayeda Strike Shows the Limits of Pakistan\u2019s Hormuz Mediation - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Long Road to Recovery - Global Finance Magazine",
+        "Can Pakistan\u2019s military government make the economy grow? - Financial Times",
+        "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief - The Economic Times",
+        "Video: Economists Discuss Pakistan\u2019s Economy at Harvard Conference - Rabwah Times",
+        "CPEC And The Promise Of A More Connected And Prosperous Region \u2013 OpEd - Eurasia Review",
+        "What Pakistan reveals about administrative reform for fast-growing populations - World Economic Forum"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2",
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc",
+        "CPEC positive for cement steel energy / CPEC cement steel energy \u0645\u062b\u0628\u062a",
+        "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
+      ]
+    }
   }
 ]
