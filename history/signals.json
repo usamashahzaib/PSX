@@ -102341,5 +102341,787 @@
         "SBP cut helps leveraged sectors / SBP cut leveraged sectors \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062b\u0628\u062a"
       ]
     }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 312.54998779296875,
+    "rsi": 59.41,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 223.35000610351562,
+    "rsi": 64.47,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 429.0,
+    "rsi": 66.66,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 358.80999755859375,
+    "rsi": 52.46,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 404.30999755859375,
+    "rsi": 66.44,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 431.44000244140625,
+    "rsi": 67.77,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 303.4700012207031,
+    "rsi": 70.38,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 110.69000244140625,
+    "rsi": 52.93,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 220.47999572753906,
+    "rsi": 82.34,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 8.460000038146973,
+    "rsi": 59.94,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 180.10000610351562,
+    "rsi": 62.94,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 105.80999755859375,
+    "rsi": 75.64,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 294.1099853515625,
+    "rsi": 69.26,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 928.6599731445312,
+    "rsi": 19.51,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 11.729999542236328,
+    "rsi": 29.46,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 571.2999877929688,
+    "rsi": 81.5,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 16.809999465942383,
+    "rsi": 56.87,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 130.72000122070312,
+    "rsi": 64.65,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 34.2400016784668,
+    "rsi": 65.48,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 659.239990234375,
+    "rsi": 41.54,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 44.63999938964844,
+    "rsi": 47.74,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 91.37999725341797,
+    "rsi": 65.7,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 23.90999984741211,
+    "rsi": 64.62,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-24T03:10:36.799611+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.298,
+      "headlines": [
+        "Why are Kazakhstan and Pakistan Eyeing Each Other? - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "Pakistan\u2019s Economy Is Stabilising, but What Comes Next? | Akbar Zaidi | Ammar H Khan - Dawn",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "The Badr Accord And The Hard Path To Pakistan\u2019s Economic Resurgence - The Friday Times",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters"
+      ],
+      "reasons": [
+        "Oil surge hurts Pakistan import bill / \u062a\u06cc\u0644 \u0627\u0636\u0627\u0641\u06c1 \u062f\u0631\u0622\u0645\u062f\u06cc \u0628\u0644 \u0628\u0691\u06be\u0627\u062a\u0627 \u06c1\u06d2"
+      ]
+    }
   }
 ]
