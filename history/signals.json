@@ -104598,5 +104598,787 @@
         "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
       ]
     }
+  },
+  {
+    "symbol": "OGDC",
+    "action": "HOLD",
+    "price": 311.45001220703125,
+    "rsi": 52.44,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PPL",
+    "action": "HOLD",
+    "price": 223.6699981689453,
+    "rsi": 61.48,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "LUCK",
+    "action": "HOLD",
+    "price": 430.2099914550781,
+    "rsi": 57.74,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PSO",
+    "action": "HOLD",
+    "price": 356.9100036621094,
+    "rsi": 47.48,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "MCB",
+    "action": "HOLD",
+    "price": 403.8800048828125,
+    "rsi": 57.53,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "UBL",
+    "action": "HOLD",
+    "price": 429.3999938964844,
+    "rsi": 57.16,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "HBL",
+    "action": "HOLD",
+    "price": 304.0799865722656,
+    "rsi": 61.38,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "SYS",
+    "action": "HOLD",
+    "price": 111.26000213623047,
+    "rsi": 50.58,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "EFERT",
+    "action": "HOLD",
+    "price": 215.97999572753906,
+    "rsi": 62.96,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "UNITY",
+    "action": "HOLD",
+    "price": 8.350000381469727,
+    "rsi": 59.29,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "TGL",
+    "action": "HOLD",
+    "price": 186.4499969482422,
+    "rsi": 62.36,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "MLCF",
+    "action": "HOLD",
+    "price": 108.47000122070312,
+    "rsi": 71.51,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "CHCC",
+    "action": "HOLD",
+    "price": 294.2799987792969,
+    "rsi": 58.03,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "ATRL",
+    "action": "HOLD",
+    "price": 919.239990234375,
+    "rsi": 20.11,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "CNERGY",
+    "action": "HOLD",
+    "price": 11.649999618530273,
+    "rsi": 44.16,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": true,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "MACD bullish crossover; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "FFC",
+    "action": "HOLD",
+    "price": 574.1900024414062,
+    "rsi": 68.23,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "HASCOL",
+    "action": "HOLD",
+    "price": 16.81999969482422,
+    "rsi": 57.94,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "NML",
+    "action": "HOLD",
+    "price": 133.58999633789062,
+    "rsi": 62.81,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PAEL",
+    "action": "HOLD",
+    "price": 34.38999938964844,
+    "rsi": 63.1,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "POL",
+    "action": "HOLD",
+    "price": 661.9500122070312,
+    "rsi": 46.92,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "PTC",
+    "action": "HOLD",
+    "price": 43.47999954223633,
+    "rsi": 36.81,
+    "checks": {
+      "RSI oversold": true,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": false,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "RSI oversold; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "SNGP",
+    "action": "HOLD",
+    "price": 91.04000091552734,
+    "rsi": 49.4,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": false,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
+  },
+  {
+    "symbol": "SSGC",
+    "action": "HOLD",
+    "price": 23.989999771118164,
+    "rsi": 57.43,
+    "checks": {
+      "RSI oversold": false,
+      "MACD bullish crossover": false,
+      "Price above/reclaiming EMA20": true,
+      "Volume spike": true,
+      "KSE trend not bearish": true,
+      "Macro acceptable": false
+    },
+    "reason": "Price above/reclaiming EMA20; Volume spike; KSE trend not bearish",
+    "time": "2026-11-27T00:45:23.087543+05:00",
+    "market_trend": "Neutral",
+    "kse100": 0.0,
+    "macro": {
+      "score": -0.141,
+      "headlines": [
+        "Pakistan-US economic ties to grow further, with exception of crypto - Nikkei Asia",
+        "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+        "Pakistan Border Closures Shift Afghan Trade Toward Central Asia - The Times Of Central Asia",
+        "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
+        "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation - Reuters",
+        "How did Pakistan's economy change from an agriculture-based economy after independence? - Britannica",
+        "UN Committee on Economic, Social and Cultural Rights publishes findings on Austria, Eswatini, Mexico and Pakistan - ohchr",
+        "The Political Economy Of War: Militarisation, Debt And The Cost Of Survival In Pakistan - The Friday Times"
+      ],
+      "reasons": [
+        "PKR depreciation broadly negative / PKR \u06a9\u0645\u0632\u0648\u0631\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u0646\u0641\u06cc"
+      ]
+    }
   }
 ]
